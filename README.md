@@ -1,5 +1,7 @@
 # About Me:
-👋 Hi there! I´m Paula Velez, an enthusiastic and detail-oriented Front-end developer. <br> 📍 Based in Córdoba Capital - Argentina.<br>👩‍💻 I´m currently focusing on building and improving my Front-end and UI design skills.<br><br>👾 Let's get in touch!<br>📬 velezpaula.a@gmail.com<br>👉 https://www.linkedin.com/in/paula-velez/ <br>👉 Soon you´ll be able to check out what I´ve been working on in my portfolio. <br><br>✌ Stay tuned!
+👋 Hi there! I´m Paula Velez, an enthusiastic and detail-oriented Front-end developer. <br> 📍 Based in Córdoba Capital - Argentina.<br>👩‍💻 I´m currently focusing on building and improving my Front-end and UI design skills.<br><br>👾 Let's get in touch!<br>📬 Email: velezpaula.a@gmail.com<br>👉Linkedin: https://www.linkedin.com/in/paula-velez/ <br>👉Portfolio: https://portfolio-paulavelezzs-projects.vercel.app/ <br><br> 
+
+Thanks for your visit 👋
 
 
 
